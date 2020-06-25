@@ -22,7 +22,6 @@ ___
    | ------------------ | ------------ |
    | :heavy_check_mark: | React        |
    | :heavy_check_mark: | React-Native |
-   | :heavy_check_mark: | ReactDom     |
    | :heavy_check_mark: | Axios        |
 ___
 
